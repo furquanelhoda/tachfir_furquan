@@ -284,7 +284,7 @@ function countWord() {
     document.getElementById("mim4").innerHTML=Counter4*17;
     
     document.getElementById("dal").innerHTML=Counter5;
-    document.getElementById("dal5").innerHTML=Counter5*6;
+    document.getElementById("dal5").innerHTML=Counter5*5;
     
     document.getElementById("haae").innerHTML=Counter6;
     document.getElementById("haae6").innerHTML=Counter6*2;
@@ -293,7 +293,7 @@ function countWord() {
     document.getElementById("raa7").innerHTML=Counter7*2;
     
     document.getElementById("baa").innerHTML=Counter8;
-    document.getElementById("baa8").innerHTML=Counter8*9;
+    document.getElementById("baa8").innerHTML=Counter8*0;
     
     document.getElementById("ine").innerHTML=Counter9;
     document.getElementById("ine9").innerHTML=Counter9*2;
@@ -309,14 +309,14 @@ function countWord() {
     
     
     document.getElementById("ouaou").innerHTML=Counter13;
-    document.getElementById("ouaou13").innerHTML=Counter13*22;
+    document.getElementById("ouaou13").innerHTML=Counter13*6;
     
     
     document.getElementById("sin").innerHTML=Counter14;
     document.getElementById("sin14").innerHTML=Counter14*5;
     
     document.getElementById("taa").innerHTML=Counter15;
-    document.getElementById("taa15").innerHTML=Counter15*21;
+    document.getElementById("taa15").innerHTML=Counter15*8;
     
     document.getElementById("saad").innerHTML=Counter16;
     document.getElementById("saad16").innerHTML=Counter16*3;
@@ -329,34 +329,34 @@ function countWord() {
     
     
     document.getElementById("ddal").innerHTML=Counter19;
-    document.getElementById("ddal19").innerHTML=Counter19*8;
+    document.getElementById("ddal19").innerHTML=Counter19*3;
     
     document.getElementById("gaa").innerHTML=Counter20;
-    document.getElementById("gaa20").innerHTML=Counter20*18;
+    document.getElementById("gaa20").innerHTML=Counter20*4;
     
     document.getElementById("daa").innerHTML=Counter21;
-    document.getElementById("daa21").innerHTML=Counter21*19;
+    document.getElementById("daa21").innerHTML=Counter21*2;
     
     document.getElementById("faa").innerHTML=Counter22;
     document.getElementById("faa22").innerHTML=Counter22*7;
     
     document.getElementById("zay").innerHTML=Counter23;
-    document.getElementById("zay23").innerHTML=Counter23*10;
+    document.getElementById("zay23").innerHTML=Counter23*2;
     
     document.getElementById("kha").innerHTML=Counter24;
-    document.getElementById("kha24").innerHTML=Counter24*12;
+    document.getElementById("kha24").innerHTML=Counter24*6;
     
     document.getElementById("chine").innerHTML=Counter25;
-    document.getElementById("chine25").innerHTML=Counter25*15;
+    document.getElementById("chine25").innerHTML=Counter25*5;
     
     document.getElementById("ddda").innerHTML=Counter26;
-    document.getElementById("ddda26").innerHTML=Counter26*16;
+    document.getElementById("ddda26").innerHTML=Counter26*3;
     
     document.getElementById("jim").innerHTML=Counter27;
-    document.getElementById("jim27").innerHTML=Counter27*14;
+    document.getElementById("jim27").innerHTML=Counter27*9;
     
     document.getElementById("ttta").innerHTML=Counter28;
-    document.getElementById("ttta28").innerHTML=Counter28*11;
+    document.getElementById("ttta28").innerHTML=Counter28*4;
     
   
     
@@ -364,9 +364,9 @@ function countWord() {
     
     document.getElementById("best14").innerHTML= Counter1*13 + Counter2*13 + Counter3*7 + Counter4*17  + Counter6*2 + Counter7*2  + Counter9*2 + Counter10*2 + Counter11*1 + Counter12*1  + Counter14*5 + Counter16*3 + Counter17*4 + Counter18*2  ;
 
-    document.getElementById("best15").innerHTML=  Counter5*6 + Counter8*9 + Counter13*22 + Counter15*21  + Counter19*8 + Counter20*18 + Counter21*19 + Counter22*7 + Counter23*10 + Counter24*12 + Counter25*15 + Counter26*16 + Counter27*14 + Counter28*11 ;
+    document.getElementById("best15").innerHTML=  Counter5*5 + Counter8*0 + Counter13*6 + Counter15*8  + Counter19*3 + Counter20*4 + Counter21*2 + Counter22*7 + Counter23*2 + Counter24*6 + Counter25*5 + Counter26*3 + Counter27*9 + Counter28*4 ;
     
-    document.getElementById("best3").innerHTML= Counter1*13 + Counter2*13 + Counter3*7 + Counter4*17 + Counter5*6 + Counter6*2 + Counter7*2 + Counter8*9 + Counter9*2 + Counter10*2 + Counter11*1 + Counter12*1 + Counter13*22 + Counter14*5 + Counter15*21 + Counter16*3 + Counter17*4 + Counter18*2 + Counter19*8 + Counter20*18 + Counter21*19 + Counter22*7 + Counter23*10 + Counter24*12 + Counter25*15 + Counter26*16 + Counter27*14 + Counter28*11  ;
+    document.getElementById("best3").innerHTML= Counter1*13 + Counter2*13 + Counter3*7 + Counter4*17 + Counter5*5 + Counter6*2 + Counter7*2 + Counter8*0 + Counter9*2 + Counter10*2 + Counter11*1 + Counter12*1 + Counter13*6 + Counter14*5 + Counter15*8 + Counter16*3 + Counter17*4 + Counter18*2 + Counter19*3 + Counter20*4 + Counter21*2 + Counter22*7 + Counter23*2 + Counter24*6 + Counter25*5 + Counter26*3 + Counter27*9 + Counter28*4  ;
     
     document.getElementById("best6").innerHTML= Counter1 + Counter2 + Counter3 + Counter4 + Counter5 + Counter6 + Counter7 + Counter8 + Counter9 + Counter10 + Counter11 + Counter12 + Counter13 + Counter14 + Counter15 + Counter16 + Counter17 + Counter18 + Counter19 + Counter20 + Counter21 + Counter22 + Counter23 + Counter24 + Counter25 + Counter26 + Counter27 + Counter28 ;
     
